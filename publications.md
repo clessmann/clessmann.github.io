@@ -4,7 +4,8 @@
 
 ## Selected Publications
 
-- **The Political Geography of Cities: Capital Cities, Economic Fundamentals, and Urban Growth**    *American Economic Journal: Applied Economics*, 2026 (with Richard Bluhm and Paul Schaudt)
+- **The Political Geography of Cities: Capital Cities, Economic Fundamentals, and Urban Growth**
+  *American Economic Journal: Applied Economics*, 2026 (with Richard Bluhm and Paul Schaudt)
 
 - **International Trade, Geographic Heterogeneity and Interregional Inequality**  
   *European Economic Review*, 2020 (with Georg Hirte and André Seidel)
