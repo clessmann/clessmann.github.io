@@ -14,8 +14,8 @@ Technische Universität Dresden
 I am Professor of Economics at Technische Universität Dresden. My research focuses on spatial inequality, development economics, political economy, and international economics.
 
 ## Affiliations
-- ifo Institute  
-- CESifo Research Network  
+- Research professor Ifo Institute  
+- CESifo Research Network Fellow
 - Center for International Studies, TU Dresden  
 
 ## Contact
@@ -27,5 +27,5 @@ Chair of Economics, esp. International Economics
 Email: christian.lessmann@tu-dresden.de  
 
 ## Profiles
-- [Google Scholar](#)
-- [RePEc](#)
+- [Google Scholar]([#](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
+- [RePEc](https://ideas.repec.org/f/ple263.html)
