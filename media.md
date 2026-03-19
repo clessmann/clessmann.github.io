@@ -17,4 +17,4 @@
 ## Outreach
 <img src="tu_dd_podium_23-1039.jpg" alt="Christian Lessmann" width="440">
 
-I regularly contribute to public discussions, interviews, panels, and knowledge-transfer events related to economics, public policy, and international economic issues.
+I regularly contribute to public discussions, interviews, panels, and knowledge-transfer events related to economics and public policy.
