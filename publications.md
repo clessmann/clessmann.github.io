@@ -27,8 +27,4 @@
 -	**Nighttime Lights and Wealth in Very Small Areas: Namibian Complete Census versus DHS Data**  
   *Review of Regional Research*, 2021 (with Ilari Määttä and Thomas Ferreira)
 
-## Working Papers
-- *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
-- *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
-
 A full list of publications is available in the [CV](Lessmann_CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
