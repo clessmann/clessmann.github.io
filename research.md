@@ -10,6 +10,6 @@ My research lies in development economics, political economy, regional economics
 
 
 ## Selected Working Papers
-- [*Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)](https://www.ifo.de/DocDL/cesifo1_wp10661.pdf)
+- [*Do Twitter's science stars get a citation premium?*](with Ali S. Önder and Maximilian Rose)(https://www.ifo.de/DocDL/cesifo1_wp10661.pdf)
 - *Work from Home and Health-Related Absenteeism* (joint with Victor Alipour, Katharina Betting, Kamila Cygan-Rehm, and Valentin Lindlacher)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
