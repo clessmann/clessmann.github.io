@@ -27,5 +27,5 @@ Chair of Economics, esp. International Economics
 Email: christian.lessmann@tu-dresden.de  
 
 ## Profiles
-- [Google Scholar]([#](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
 - [RePEc](https://ideas.repec.org/f/ple263.html)
