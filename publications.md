@@ -15,7 +15,7 @@
 - **Spatial Inequality and Development – Is there an inverted U relationship?**  
   *Journal of Development Economics*, 2014
   
-- **Interregional Redistribution and Mobility in Federations: A Positive Approach**
+- **Interregional Redistribution and Mobility in Federations: A Positive Approach**  
     *Review of Economic Studies* (with Anke S. Kessler and Nico A. Hansen)
 
 ## Working Papers
