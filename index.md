@@ -14,9 +14,9 @@ Professor of Economics
 I am Professor of Economics, especially International Economics at TUD - Dresden University of Technology. My research focuses on spatial inequality, regional economics, development economics, political economy, and international economics.
 
 ## Affiliations
-- Research professor Ifo Institute  
-- CESifo Research Network Fellow
-- Center for International Studies, TU Dresden  
+- [Research professor Ifo Institute](https://www.ifo.de/en/research/ifo-dresden)
+- [CESifo Research Network Fellow](https://www.ifo.de/en/cesifo/network-member/lessmann-christian)
+- [Center for International Studies](https://tu-dresden.de/gsw/zis/die-einrichtung?set_language=en)
 
 ## Contact
 Dresden University of Technology
