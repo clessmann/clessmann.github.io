@@ -4,20 +4,19 @@
 
 ## Selected Publications
 
-- **The Political Geography of Cities: Capital Cities, Economic Fundamentals, and Urban Growth**  
-  *American Economic Journal: Applied Economics* (accepted)
-
-- **Spatial Inequality, Geography and Economic Activity**  
-  *World Development*, 2020
+- **The Political Geography of Cities: Capital Cities, Economic Fundamentals, and Urban Growth**    *American Economic Journal: Applied Economics*, 2026 (with Richard Bluhm and Paul Schaudt)
 
 - **International Trade, Geographic Heterogeneity and Interregional Inequality**  
-  *European Economic Review*, 2020
+  *European Economic Review*, 2020 (with Georg Hirte and André Seidel)
 
 - **Regional Inequality, Convergence, and its Determinants – A View from Outer Space**  
-  *European Economic Review*, 2017
+  *European Economic Review*, 2017 (with André Seidel)
 
 - **Spatial Inequality and Development – Is there an inverted U relationship?**  
   *Journal of Development Economics*, 2014
+  
+- **Interregional Redistribution and Mobility in Federations: A Positive Approach**
+  *Review of Economic Studies* (with Anke S. Kessler and Nico A. Hansen)
 
 ## Working Papers
 - *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
