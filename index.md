@@ -1,43 +1,35 @@
 [Home](index.html) | [Research](research.html) | [Publications](publications.html) | [Teaching](teaching.html) | [Media](media.html) | [CV](cv.html)
 
-# Prof. Dr. Christian Lessmann
+# Christian Lessmann
 
-Professor of Economics (International Economics)  
-Technische Universität Dresden  
+Professor of Economics  
+Technische Universität Dresden
 
-[Email](mailto:christian.lessmann@tu-dresden.de)
+<img src="clessmann.jpg" alt="Christian Lessmann" width="220">
 
-## About
-
-I am Professor of Economics at Technische Universität Dresden and affiliated with the ifo Institute and the CESifo Research Network. My research focuses on spatial inequality, development economics, political economy, and international economics.
-
-My work studies the determinants and consequences of regional inequality, using empirical methods and novel data sources such as satellite imagery and geospatial data. :contentReference[oaicite:0]{index=0}
+I am Professor of Economics at Technische Universität Dresden. My research focuses on spatial inequality, development economics, political economy, and international economics. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ## Research Interests
-- Spatial inequality and regional development  
-- Development economics  
-- Political economy  
-- International trade  
-- Applied econometrics and causal inference  
+- Spatial inequality
+- Development economics
+- Political economy
+- International economics
+- Applied empirical economics
 
 ## Affiliations
-- Research Professor, ifo Institute  
-- CESifo Research Network Fellow  
-- Co-Director, Center for International Studies, TU Dresden  
-
-## News
-- Paper on political geography of cities accepted at *American Economic Journal: Applied Economics*  
-- Recent media contributions in FAZ and Wirtschaftswoche  
+- ifo Institute
+- CESifo Research Network
+- Center for International Studies, TU Dresden
 
 ## Contact
 Technische Universität Dresden  
 Faculty of Business and Economics  
-01062 Dresden  
+Chair of International Economics  
+01062 Dresden
 
-Email: christian.lessmann@tu-dresden.de  
+Email: christian.lessmann@tu-dresden.de
 
 ## Profiles
 - [Google Scholar](#)
 - [RePEc](#)
 - [ORCID](#)
-- [GitHub](#)
