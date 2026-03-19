@@ -1,7 +1,6 @@
 [Home](index.html) | [Research](research.html) | [Publications](publications.html) | [Teaching](teaching.html) | [Media](media.html) | [CV](cv.html)
 
 # Media
-I take the 3rd mission of universities serious. 
 
 ## Selected Newspapers
 - FAZ, *Rente: Dachdecker gegen Doktoren?* (2026)
@@ -11,7 +10,8 @@ I take the 3rd mission of universities serious.
 - FAZ, *Zwischen den Fächern* (2023)
 
 ## Videos
-You find different videos on economic policy at [Youtube](https://www.youtube.com/watch?v=gPC8eToIOlU&list=PLsjkNZd5YE12RE21p2iLtusJQknFS-DCG)
+- You find different videos on economic policy at [Youtube](https://www.youtube.com/watch?v=gPC8eToIOlU&list=PLsjkNZd5YE12RE21p2iLtusJQknFS-DCG)
+- I produce videos on PhD projects [Youtube](https://www.youtube.com/watch?v=VU_OwmOuLJE&list=PLsjkNZd5YE10C8XBqsZoetVGRTkjPIcyL)
 
 
 ## Outreach
