@@ -25,7 +25,7 @@ Faculty of Business and Economics
 Chair of Economics, esp. International Economics  
 01062 Dresden  
 
-Email: christian.lessmann@tu-dresden.de  
+Email: christian.lessmann *at* tu-dresden.de  
 
 ## Profiles
 - [<img src="assets/icons/google-scholar.svg" width="16"> Google Scholar](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
