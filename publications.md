@@ -22,4 +22,4 @@
 - *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
 
-A full list of publications is available in the [CV](Lessmann_CV.pdf).
+A full list of publications is available in the [CV](Lessmann_CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
