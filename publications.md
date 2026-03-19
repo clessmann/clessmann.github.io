@@ -20,7 +20,7 @@
   *Journal of Development Economics*, 2014
 
 ## Working Papers
-- *Do Twitter's science stars get a citation premium?*
-- *Tri-border areas and the location of economic activity in open economies*
+- *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
+- *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
 
-A full list of publications is available in the [CV](cv.html). :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+A full list of publications is available in the [CV](Lessmann_CV.pdf).
