@@ -16,7 +16,7 @@
   *Journal of Development Economics*, 2014
   
 - **Interregional Redistribution and Mobility in Federations: A Positive Approach**  
-    *Review of Economic Studies* (with Anke S. Kessler and Nico A. Hansen)
+    *Review of Economic Studies*, 2011 (with Anke S. Kessler and Nico A. Hansen)
 
 ## Working Papers
 - *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
