@@ -4,7 +4,7 @@
 
 My research lies in development economics, political economy, regional economics, and international economics. A central theme of my work is spatial inequality and its consequences for economic development, conflict, and public policy.
 
-## Projects
+## Current Projects
 - [Work from Home and Health-Related Absenteeism](https://tu-dresden.de/bu/wirtschaft/vwl/iwb/die-professur/news/projekt-zu-den-gesundheitlichen-auswirkungen-von-homeoffice?set_language=en) (joint with Victor Alipour, Katharina Betting, Kamila Cygan-Rehm, and Valentin Lindlacher)
 - [PTB Quality Infrastructure for Trade](https://tu-dresden.de/bu/wirtschaft/vwl/iwb/forschung/qit) (joint with Markus Ludwig and Diana Zarbailova)
 
