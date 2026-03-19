@@ -11,7 +11,7 @@ Professor of Economics
 
 <img src="clessmann.jpg" alt="Christian Lessmann" width="220">
 
-I am Professor of Economics at TU Dresden. My research focuses on spatial inequality, regional ecnomics, development economics, political economy, and international economics.
+I am Professor of Economics at TUD - Dresden University of Technology. My research focuses on spatial inequality, regional economics, development economics, political economy, and international economics.
 
 ## Affiliations
 - Research professor Ifo Institute  
