@@ -19,7 +19,7 @@
 - **Interregional Redistribution and Mobility in Federations: A Positive Approach**  
     *Review of Economic Studies*, 2011 (with Anke S. Kessler and Nico A. Hansen)
 
-## Interdisciplinary Publications 
+## Interdisciplinary Research
 -	**Integrating Remote Sensing and Deep Learning for Mapping Urban Housing Wealth Patterns**  
   *Geo-spatial Information Science*, 2025 (with Emmanuel Nyandwi, Markus Gerke, and Pedro Achanccaray Diaz)
 - **The Effect of Cap-and-Trade on Sectoral Emissions: Evidence from California**  
