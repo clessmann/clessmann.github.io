@@ -7,11 +7,11 @@ title: Christian Lessmann – Professor of Economics
 # Christian Lessmann
 
 Professor of Economics  
-Technische Universität Dresden
+TUD - Dresden University of Technology
 
 <img src="clessmann.jpg" alt="Christian Lessmann" width="220">
 
-I am Professor of Economics at Technische Universität Dresden. My research focuses on spatial inequality, development economics, political economy, and international economics.
+I am Professor of Economics at TU Dresden. My research focuses on spatial inequality, development economics, political economy, and international economics.
 
 ## Affiliations
 - Research professor Ifo Institute  
@@ -19,7 +19,7 @@ I am Professor of Economics at Technische Universität Dresden. My research focu
 - Center for International Studies, TU Dresden  
 
 ## Contact
-Technische Universität Dresden  
+Dresden University of Technology
 Faculty of Business and Economics  
 Chair of Economics, esp. International Economics  
 01062 Dresden  
