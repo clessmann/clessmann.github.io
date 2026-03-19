@@ -4,7 +4,7 @@ title: Christian Lessmann – Professor of Economics
 
 [Home](index.html) | [Research](research.html) | [Publications](publications.html) | [Teaching](teaching.html) | [Media](media.html) | [CV](cv.html)
 
-# Welcome
+# Christian Lessmann (actually Leßmann)
 
 Professor of Economics  
 [TUD - Dresden University of Technology](https://tu-dresden.de/bu/wirtschaft/vwl/iwb/die-professur/inhaber?set_language=en)
