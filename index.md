@@ -29,4 +29,4 @@ Email: christian.lessmann@tu-dresden.de
 
 ## Profiles
 - [<img src="assets/icons/google-scholar.svg" width="16"> Google Scholar](https://scholar.google.com/citations?user=yqY7o8IAAAAJ&hl=de&oi=ao)
-- [RePEc](https://ideas.repec.org/f/ple263.html)
+- [<img src="assets/icons/ideas-repec.svg" width="16"> RePEc](https://ideas.repec.org/f/ple263.html)
