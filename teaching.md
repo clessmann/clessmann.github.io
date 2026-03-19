@@ -5,13 +5,13 @@
 I teach courses at the undergraduate, master's, and doctoral level in economics.
 
 ## Areas of Teaching
-- Microeconomics
-- Macroeconomics
-- Development economics
-- International trade
-- Public economics
-- Empirical methods
-- Causal methods
+- Microeconomics (BSc)
+- Macroeconomics (BSc)
+- Development economics (MSc)
+- International trade (BSc)
+- Public economics (BSc, MSc)
+- Empirical methods (BSc)
+- Causal methods (MSc, PhD)
 
 # Kids and Schools
 <img src="kinderuni.png" alt="Christian Lessmann" width="440">
