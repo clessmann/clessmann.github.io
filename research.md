@@ -10,5 +10,5 @@ My research lies in development economics, political economy, regional economics
 
 
 ## Selected Working Papers
-- *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
+- [*Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)](https://www.ifo.de/DocDL/cesifo1_wp10661.pdf)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
