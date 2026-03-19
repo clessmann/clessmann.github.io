@@ -1,6 +1,7 @@
 ---
 title: Christian Lessmann – Professor of Economics
 ---
+
 [Home](index.html) | [Research](research.html) | [Publications](publications.html) | [Teaching](teaching.html) | [Media](media.html) | [CV](cv.html)
 
 # Christian Lessmann
