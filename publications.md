@@ -22,6 +22,8 @@
 ## Interdisciplinary Publications 
 -	**Integrating Remote Sensing and Deep Learning for Mapping Urban Housing Wealth Patterns**  
   *Geo-spatial Information Science*, 2025 (with Emmanuel Nyandwi, Markus Gerke, and Pedro Achanccaray Diaz)
+- **The Effect of Cap-and-Trade on Sectoral Emissions: Evidence from California**  
+  *Energy Policy*, 2024 (with Niklas Kramer)
 -	**The unequal burden of human-wildlife conflict**  
   *Communcations Biology*, 2023 (with A.R. Braczkowski, C.J. O’Brian, C. Lessmann, A. Crysell, C. Rondinini, M. Stringer, L. Gib-son, S. Gilbert & D. Biggs)
 -	**Nighttime Lights and Wealth in Very Small Areas: Namibian Complete Census versus DHS Data**  
