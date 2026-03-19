@@ -10,5 +10,5 @@
 - FAZ, *Zwischen den Fächern* (2023)
 
 ## Outreach
-<img src="clessmann.jpg" alt="Christian Lessmann" width="220">
+<img src="tu_dd_podium_23-1039.jpg" alt="Christian Lessmann" width="220">
 I regularly contribute to public discussions, interviews, panels, and knowledge-transfer events related to economics, public policy, and international economic issues.
