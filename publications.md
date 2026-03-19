@@ -18,6 +18,14 @@
 - **Interregional Redistribution and Mobility in Federations: A Positive Approach**  
     *Review of Economic Studies*, 2011 (with Anke S. Kessler and Nico A. Hansen)
 
+## Interdisciplinary Publications 
+-	**Integrating Remote Sensing and Deep Learning for Mapping Urban Housing Wealth Patterns**  
+  *Geo-spatial Information Science*, 2025 (with Emmanuel Nyandwi, Markus Gerke, and Pedro Achanccaray Diaz)
+-	**The unequal burden of human-wildlife conflict**  
+  *Communcations Biology*, 2023 (with A.R. Bracz-kowski, C.J. O’Brian, C. Lessmann, A. Crysell, C. Rondinini, M. Stringer, L. Gib-son, S. Gilbert & D. Biggs)
+-	**Nighttime Lights and Wealth in Very Small Areas: Namibian Complete Census versus DHS Data**  
+  *Review of Regional Research*, 2021 (with Ilari Määttä and Thomas Ferreira)
+
 ## Working Papers
 - *Do Twitter's science stars get a citation premium?* (with Ali S. Önder and Maximilian Rose)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
