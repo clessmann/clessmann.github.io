@@ -10,6 +10,7 @@ My research lies in development economics, political economy, regional economics
 
 
 ## Selected Working Papers
+- [*Comment on: Structural adjustment: damages, reparations and pathways to non-recurrence]()* (with Justin Callais, Vincent Geloso, and Joseph B. Steinberg)
 - [*Do Twitter's science stars get a citation premium?*](https://www.ifo.de/DocDL/cesifo1_wp10661.pdf) (with Ali S. Önder and Maximilian Rose)
 - *Work from Home and Health-Related Absenteeism* (joint with Victor Alipour, Katharina Betting, Kamila Cygan-Rehm, and Valentin Lindlacher)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
