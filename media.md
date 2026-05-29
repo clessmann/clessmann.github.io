@@ -3,11 +3,12 @@
 # Media
 
 ## Selected Newspapers
-- FAZ, *Rente: Dachdecker gegen Doktoren?* (2026)
-- Sächsische Zeitung, *Schenken am Limit* (2025)
-- Wirtschaftswoche, *Mehr Wachstum durch dezentrale Leuchttürme* (2024)
-- FAZ, *VWL aus dem Weltall* (2024)
-- FAZ, *Zwischen den Fächern* (2023)
+- FAZ report, *Kim Science* (2026)
+- FAZ guest commentary, *Rente: Dachdecker gegen Doktoren?* (2026)
+- Sächsische Zeitung interview, *Schenken am Limit* (2025)
+- Wirtschaftswoche report, *Mehr Wachstum durch dezentrale Leuchttürme* (2024)
+- FAZ guest commentary, *VWL aus dem Weltall* (2024)
+- FAZ interview, *Zwischen den Fächern* (2023)
 
 ## Videos
 - You find different videos on economic policy at [Youtube](https://www.youtube.com/watch?v=gPC8eToIOlU&list=PLsjkNZd5YE12RE21p2iLtusJQknFS-DCG)
