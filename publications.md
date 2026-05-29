@@ -21,7 +21,9 @@
 
 ## Interdisciplinary Research
 - **Do Science Kardashians Get Citation Premium? Self-Fulfilling Effects of Social Media on Scientific Impact**
-  *Kyklos*, 2026 (accepted) (with Ali S. Önder and Maximilion Rose)
+  *Kyklos*, 2026 (with Ali S. Önder and Maximilian Rose)
+- **Comment on: Structural Adjustment: Damages, Reparations and Pathways to Non-Recurrence** (by Jason Hickel et al.) 
+  *BMJ Global Health*, 2026 (accepted) (with Justin Callais, Vincent Geloso, and Joseph B. Steinberg)  
 -	**Integrating Remote Sensing and Deep Learning for Mapping Urban Housing Wealth Patterns**  
   *Geo-spatial Information Science*, 2025 (with Emmanuel Nyandwi, Markus Gerke, and Pedro Achanccaray Diaz)
 - **The Effect of Cap-and-Trade on Sectoral Emissions: Evidence from California**  
