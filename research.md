@@ -10,7 +10,6 @@ My research lies in development economics, political economy, regional economics
 
 
 ## Selected Working Papers
-- [*Comment on: Structural adjustment: damages, reparations and pathways to non-recurrence*](https://github.com/clessmann/clessmann.github.io/blob/b704d4119617c6ec3be696d7e86c697c247e1542/assets/icons/BMJGH_comment.pdf) (with Justin Callais, Vincent Geloso, and Joseph B. Steinberg)
-- [*Do Twitter's science stars get a citation premium?*](https://www.ifo.de/DocDL/cesifo1_wp10661.pdf) (with Ali S. Önder and Maximilian Rose)
 - *Work from Home and Health-Related Absenteeism* (joint with Victor Alipour, Katharina Betting, Kamila Cygan-Rehm, and Valentin Lindlacher)
 - *Tri-border areas and the location of economic activity in open economies* (with Felipe Santos-Marquez)
+- *Access to Standards, Access to Markets: ISO Access, Quality Infrastructure, and International Trade* (with Zhixiao Yao)
