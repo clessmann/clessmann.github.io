@@ -3,6 +3,7 @@
 # Media
 
 ## Selected Newspapers
+- Die ZEIT expert interview, *Ist das Homeoffice eine Gefahr für die Psyche?* (2026)
 - FAZ report, *Kim Science* (2026)
 - FAZ guest commentary, *Rente: Dachdecker gegen Doktoren?* (2026)
 - Sächsische Zeitung interview, *Schenken am Limit* (2025)
