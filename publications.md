@@ -14,7 +14,7 @@
   *European Economic Review*, 92, 110-132, 2017 (with André Seidel)
 
 - **Spatial Inequality and Development – Is there an inverted U relationship?**  
-  *Journal of Development Economics* 106, 35-51, 2014
+  *Journal of Development Economics*, 106, 35-51, 2014
   
 - **Interregional Redistribution and Mobility in Federations: A Positive Approach**  
     *Review of Economic Studies* 78(4), 1345–1378, 2011 (with Anke S. Kessler and Nico A. Hansen)
